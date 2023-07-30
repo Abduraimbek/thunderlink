@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.over {
+  @apply border-gray-400 scale-105;
+}
